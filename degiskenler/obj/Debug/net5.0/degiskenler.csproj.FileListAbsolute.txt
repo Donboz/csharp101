@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\Users\pc\Desktop\OYUN\klasor\Murat\csharp\csharp101\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
