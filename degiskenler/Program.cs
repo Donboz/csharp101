@@ -34,6 +34,12 @@ namespace degiskenler
             DateTime dt = DateTime.Now;
 
             Console.WriteLine(dt);
+
+            object o1 = "x"; //obje
+
+
+            string a = i32.ToString();
+            Console.WriteLine(a);
         }
     }
 }
